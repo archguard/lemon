@@ -9,7 +9,7 @@ import (
 	"strings"
 	// "os"
 
-	. "github.com/newlee/lemon/domain"
+	. "github.com/entropy-platform/lemon/domain"
 	"github.com/spf13/cobra"
 )
 

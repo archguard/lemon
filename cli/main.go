@@ -1,6 +1,6 @@
 package main
 
-import "github.com/newlee/lemon/cli/cmd"
+import "github.com/entropy-platform/lemon/cli/cmd"
 
 func main() {
 	cmd.Execute()
